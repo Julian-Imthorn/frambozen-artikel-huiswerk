@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* Er is gebruik gemaakt van de kleuren #535865 (tekstkleur), #865B9A (contrastkleur) en #DFD9E2 (achtergrondkleur); */
+/* font-family: 'Poppins', sans-serif; */
+
+body {
+    background-color: #DFD9E2;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    color: #535865;
+    font-size: 18px;
+}
+
+h1 {
+    color: #865B9A;
+    text-decoration: underline;
+    text-align: center;
+}
+
+body h2 {
+    color: #865B9A;
+    text-align: center;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+#introduction {
+    text-align: left;
+    color: #535865;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.frambozen-antioxidanten{
+    text-align: left;
+    font-size: 18px;
+    color: #535865;
+}
+
+ul li{
+    text-align: left;
+    font-size: 18px;
+    color: #535865;
+}
+
+h3 {
+    color: #865B9A;
+    font-size: 20px;
+}
+
+button {
+    font-size: 26px;
+    margin-bottom: 50px;
+    color: white;
+    background-color: #865B9A;
+}
